@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/bd97e53e-2e68-41b4-b8c5-c8ff4c5e3981/resourceGroups/DEVAPIM/providers/Microsoft.ApiManagement/service/LEARNDEVAPIM/users/1",
+    "state": "active"
+  }
+}
